@@ -1,4 +1,19 @@
-Challenge_5
+Challenge 5
 ===========
 
 Smallest multiple
+
+    From Project Euler Problem 5
+
+
+2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+
+What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
+
+There are **2** tests, make the tests pass.
+
+(you'll need jasmine-node)
+    npm install jasmine-node -g
+
+run automated tests by running
+    jasmine-node --autotest .
