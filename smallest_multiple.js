@@ -4,9 +4,8 @@
  *
  *  @returns the smallest positive number that is evenly divisible by all numbers
  */
-exports.smallestMultiple = function(numbers){
-  
+module.exports = function(numbers){
   // do work here
-  
+
   return 0;
 };
