@@ -4,7 +4,7 @@
  *
  *  @returns the smallest positive number that is evenly divisible by all numbers
  */
-module.exports = function(numbers){
+module.exports = function( ceiling ) {
   // do work here
 
   return 0;

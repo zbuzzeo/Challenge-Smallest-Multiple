@@ -1,9 +1,11 @@
 # Smallest multiple
 
-Build a function that finds the smallest positive number that is evenly divisible by all of the numbers starting from 1 up to the value passed into your function.
+Build a function that finds the smallest positive number that is evenly divisible by all of the numbers starting from 1 up to the **value passed into your function**.
+
+##
 
 ## Example
-2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+`2520` is the smallest number that can be divided by each of the numbers found between 1 to 10 without any remainder.
 
 What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 
