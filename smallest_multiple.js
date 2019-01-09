@@ -7,8 +7,17 @@
  *                            between 1 and `ceiling`
  */
 module.exports = function( ceiling ) {
-  // do work here
+  let i = ceiling;
 
+  function checkI(i) {
+    for (let k = 1; k <= ceiling; k++) {
+      if (i % k !== 0) {
+        return false;
+      }
+    }
+    return true;
+  }
 
-  return 0;
+  while (!(checkI(i))) { i += ceiling };
+  return i;
 };
